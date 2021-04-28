@@ -3,6 +3,8 @@ Move all the contents in the root folder.
 
 Compile all the packages.
 
+Create the rosbridge, because there are custom .srv files to be linked.
+
 Assignment 1
 - 3 terminals
 - First Terminal

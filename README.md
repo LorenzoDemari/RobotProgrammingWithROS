@@ -5,7 +5,7 @@ Compile all the packages.
 
 Create the rosbridge, because there are custom .srv files to be linked.
 
-Assignment 1
+**Assignment 1**
 - 3 terminals
 - First Terminal
 	- source ros.sh
@@ -18,7 +18,7 @@ Assignment 1
 	- rosrun robot_description my_user_interface.py
 	
 
-Assignment 2
+**Assignment 2**
 - 5 terminals
 - First Terminal
 	- source ros.sh

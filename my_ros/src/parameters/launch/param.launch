@@ -1,0 +1,8 @@
+<launch>
+    <param name="my_integer" type="int" value="7" />
+    <param name="my_float" type="double" value="3.14" />
+    <param name="my_string" type="str" value="hello" />
+
+    <node name="param_py" pkg="parameters" type="param.py" output="screen"/>
+    <node name="param_cpp" pkg="parameters" type="param_node" output="screen"/>
+</launch>

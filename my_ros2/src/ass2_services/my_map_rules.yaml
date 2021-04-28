@@ -1,0 +1,5 @@
+-
+ ros1_package_name: 'robot_description'
+ ros1_service_name: 'RandPos2'
+ ros2_package_name: 'ass2_services'
+ ros2_service_name: 'RandPos2'

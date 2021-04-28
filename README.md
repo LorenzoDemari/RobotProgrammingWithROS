@@ -1,6 +1,8 @@
 # RobotProgrammingWithROS
 Move all the contents in the root folder.
+
 Compile all the packages.
+
 Assignment 1
 - 2 terminals
 - First Terminal
